@@ -1,4 +1,4 @@
-## Oiii eu sou o Victor Albuquerque, criador de conteúdo de games, tecnologia e finanças!
+## Oiii ! eu sou o Victor Albuquerque, criador de conteúdo de games, tecnologia e finanças.
 <div align="center">
   <a href="https://github.com/victor1307">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor1307&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
